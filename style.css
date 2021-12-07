@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.flax-container{
+background-color: lightcoral;
+display: flex;
+justify-content: space-around;
+
+
+}
+  .flax-container  div{
+font-size: 35px;
+width: 100px;
+margin: 10px;
+padding: 20px;
+background-color: lightseagreen;
+  }
